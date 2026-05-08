@@ -1,0 +1,158 @@
+{
+  "historia_daty": {
+    "starozytnosc": [
+        {"data": "776 p.n.e.",
+        "wydarzenie": "Pierwsze igrzyska olimpijskie w starożytnej Grecji",
+        "ciekawostka": "Przyczyny: oddawanie czci Zeusowi oraz budowanie jedności kulturowej Greków. Skutki: ustalenie ogólnogreckiego kalendarza i wyznaczenie tzw. pokoju bożego (ekecheiria) na czas zawodów. Kluczowa postać: Koroibos z Elidy (pierwszy zwycięzca)."
+      },
+      {
+        "data": "44 p.n.e.",
+        "wydarzenie": "Zamach na Juliusza Cezara (Idy Marcowe)",
+        "ciekawostka": "Przyczyny: obawy arystokracji rzymskiej przed przejęciem przez Cezara władzy królewskiej i zniszczeniem republiki. Skutki: wybuch kolejnej wojny domowej, która ostatecznie doprowadziła do upadku republiki i powstania cesarstwa. Kluczowa postać: Marek Juniusz Brutus."
+      },
+      {
+        "data": "313",
+        "wydarzenie": "Edykt mediolański",
+        "ciekawostka": "Przyczyny: chęć zjednoczenia wewnętrznego imperium oraz rosnące wpływy chrześcijan. Skutki: przyznanie chrześcijanom wolności wyznania, zakończenie prześladowań religijnych w Cesarstwie Rzymskim. Kluczowa postać: Cesarz Konstantyn Wielki."
+      },
+      {
+        "data": "476",
+        "wydarzenie": "Upadek cesarstwa zachodniorzymskiego",
+        "ciekawostka": "Przyczyny: inwazje plemion barbarzyńskich (Wielka Wędrówka Ludów), głęboki kryzys gospodarczy i polityczny Rzymu. Skutki: symboliczny koniec epoki starożytności i początek średniowiecza w Europie. Kluczowa postać: Odoaker (wódz germański)."
+      }
+    ],
+    "sredniowiecze": [
+      {
+        "data": "966",
+        "wydarzenie": "Chrzest Polski",
+        "ciekawostka": "Przyczyny: chęć uniknięcia przymusowej chrystianizacji z rąk niemieckich oraz potrzeba sojuszu z Czechami przeciwko Wielecją. Skutki: wejście państwa Polan w krąg kultury zachodnioeuropejskiej, wzrost autorytetu władcy. Kluczowa postać: Mieszko I."
+      },
+      {
+        "data": "1000",
+        "wydarzenie": "Zjazd gnieźnieński",
+        "ciekawostka": "Przyczyny: pielgrzymka cesarza do grobu św. Wojciecha, plany utworzenia uniwersalnego cesarstwa chrześcijańskiego. Skutki: utworzenie polskiej metropolii kościelnej (arcybiskupstwo w Gnieźnie), wzmocnienie niezależności Polski. Kluczowa postać: Otton III."
+      },
+      {
+        "data": "1054",
+        "wydarzenie": "Schizma wschodnia",
+        "ciekawostka": "Przyczyny: spory teologiczne (m.in. o filioque) oraz rywalizacja o prymat nad światem chrześcijańskim między Rzymem a Konstantynopolem. Skutki: ostateczny rozłam chrześcijaństwa na Kościół katolicki i prawosławny. Kluczowa postać: Papież Leon IX / Patriarcha Michał Cerulariusz."
+      },
+      {
+        "data": "1364",
+        "wydarzenie": "Założenie Akademii Krakowskiej",
+        "ciekawostka": "Przyczyny: zapotrzebowanie na wykształconych prawników i urzędników do zarządzania zjednoczonym królestwem. Skutki: rozwój nauki i kultury w Polsce, podniesienie prestiżu państwa na arenie międzynarodowej. Kluczowa postać: Kazimierz III Wielki."
+      },
+      {
+        "data": "1410",
+        "wydarzenie": "Bitwa pod Grunwaldem",
+        "ciekawostka": "Przyczyny: terytorialna ekspansja zakonu krzyżackiego, dążenie Polski i Litwy do odzyskania utraconych ziem (m.in. Pomorza Gdańskiego). Skutki: złamanie militarnej potęgi Krzyżaków, dominacja unii polsko-litewskiej w Europie Środkowo-Wschodniej. Kluczowa postać: Władysław II Jagiełło."
+      },
+      {
+        "data": "1453",
+        "wydarzenie": "Zdobycie Konstantynopola przez Turków",
+        "ciekawostka": "Przyczyny: ekspansja imperium osmańskiego i całkowite osłabienie Cesarstwa Bizantyjskiego. Skutki: ostateczny upadek Bizancjum, odcięcie Europy od tradycyjnych szlaków handlowych (co przyspieszyło odkrycia geograficzne), umowny koniec średniowiecza. Kluczowa postać: Mehmed II Zdobywca."
+      }
+    ],
+    "nowozytnosc": [
+      {
+        "data": "1492",
+        "wydarzenie": "Odkrycie Ameryki przez Krzysztofa Kolumba",
+        "ciekawostka": "Przyczyny: poszukiwanie nowej drogi morskiej do Indii po zablokowaniu dawnych szlaków przez Turków. Skutki: rozpoczęcie epoki wielkich odkryć geograficznych, kolonizacja Nowego Świata, wymiana kulturowa i biologiczna (tzw. wymiana kolumbiańska). Kluczowa postać: Krzysztof Kolumb."
+      },
+      {
+        "data": "1517",
+        "wydarzenie": "Wystąpienie Marcina Lutra (początek reformacji)",
+        "ciekawostka": "Przyczyny: nepotyzm, symonia i sprzedaż odpustów w Kościele katolickim, sprzeciw wobec nadużyć papiestwa. Skutki: rozłam w zachodnim chrześcijaństwie, powstanie wyznań protestanckich, wojny religijne w Europie. Kluczowa postać: Marcin Luter."
+      },
+      {
+        "data": "1525",
+        "wydarzenie": "Hołd pruski",
+        "ciekawostka": "Przyczyny: sekularyzacja państwa zakonu krzyżackiego i przejście wielkiego mistrza na luteranizm. Skutki: powstanie świeckich Prus Książęcych będących lennem Polski, chwilowe zażegnanie konfliktów z zakonem. Kluczowa postać: Albrecht Hohenzollern."
+      },
+      {
+        "data": "1569",
+        "wydarzenie": "Unia lubelska",
+        "ciekawostka": "Przyczyny: zagrożenie Litwy ze strony Moskwy, dążenie polskiej szlachty do uzyskania ziem na wschodzie oraz brak dziedzica tronu z dynastii Jagiellonów. Skutki: powstanie Rzeczypospolitej Obojga Narodów ze wspólnym monarchą i sejmem. Kluczowa postać: Zygmunt II August."
+      },
+      {
+        "data": "1648",
+        "wydarzenie": "Pokój westfalski",
+        "ciekawostka": "Przyczyny: chęć zakończenia wyniszczającej, trzydziestoletniej wojny na tle religijnym i politycznym w Europie. Skutki: ustanowienie nowej równowagi sił w Europie, spadek znaczenia papiestwa, uznanie niepodległości Szwajcarii i Holandii. W tym samym roku w Polsce wybucha Powstanie Chmielnickiego. Kluczowa postać: Ferdynand III Habsburg."
+      },
+      {
+        "data": "1683",
+        "wydarzenie": "Odsiecz wiedeńska",
+        "ciekawostka": "Przyczyny: inwazja imperium osmańskiego na Europę Środkową i oblężenie stolicy Austrii. Skutki: powstrzymanie ekspansji tureckiej w Europie, ogromny wzrost prestiżu Rzeczypospolitej i jej monarchy. Kluczowa postać: Jan III Sobieski."
+      },
+      {
+        "data": "1772",
+        "wydarzenie": "I rozbiór Polski",
+        "ciekawostka": "Przyczyny: osłabienie Rzeczypospolitej, ingerencja Rosji, Prus i Austrii w sprawy polskie (konfederacja barska). Skutki: utrata przez Polskę około 1/3 terytorium, szok dla społeczeństwa, który zapoczątkował pierwsze próby reform państwa. Kluczowa postać: Katarzyna II Wielka."
+      },
+      {
+        "data": "1791",
+        "wydarzenie": "Uchwalenie Konstytucji 3 maja",
+        "ciekawostka": "Przyczyny: kryzys państwowości polskiej, dążenie stronnictwa patriotycznego do naprawy ustroju (zniesienie liberum veto i wolnej elekcji). Skutki: modernizacja państwa, ale też zbrojna interwencja Rosji na prośbę targowiczan (wojna w obronie Konstytucji). Kluczowa postać: Stanisław August Poniatowski."
+      },
+      {
+        "data": "1795",
+        "wydarzenie": "III rozbiór Polski",
+        "ciekawostka": "Przyczyny: upadek powstania kościuszkowskiego, chęć ostatecznego zlikwidowania państwa polskiego przez państwa ościenne. Skutki: zniknięcie Rzeczypospolitej z mapy Europy na 123 lata, abdykacja ostatniego króla Polski. Kluczowa postać: Tadeusz Kościuszko."
+      }
+    ],
+    "xix_wiek": [
+      {
+        "data": "1815",
+        "wydarzenie": "Zakończenie kongresu wiedeńskiego",
+        "ciekawostka": "Przyczyny: ostateczna klęska Napoleona Bonaparte, potrzeba uporządkowania granic w Europie. Skutki: ustanowienie porządku opartego na zasadach legitymizmu i równowagi sił (tzw. ład wiedeński), utworzenie Królestwa Polskiego. Kluczowa postać: Klemens von Metternich."
+      },
+      {
+        "data": "1830",
+        "wydarzenie": "Wybuch powstania listopadowego",
+        "ciekawostka": "Przyczyny: łamanie konstytucji Królestwa Polskiego przez cara, obawa przed użyciem wojska polskiego do tłumienia rewolucji we Francji i Belgii. Skutki: przegrana wojna polsko-rosyjska, Wielka Emigracja, represje (m.in. Statut Organiczny). Kluczowa postać: Piotr Wysocki."
+      },
+      {
+        "data": "1863",
+        "wydarzenie": "Wybuch powstania styczniowego",
+        "ciekawostka": "Przyczyny: pobór do wojska rosyjskiego (branka) przeprowadzony przez Aleksandra Wielopolskiego, rosnące nastroje patriotyczne. Skutki: najdłuższe polskie powstanie narodowe, po jego upadku brutalna rusyfikacja oraz uwłaszczenie chłopów. Kluczowa postać: Romuald Traugutt."
+      },
+      {
+        "data": "1871",
+        "wydarzenie": "Zjednoczenie Niemiec",
+        "ciekawostka": "Przyczyny: zwycięska wojna Prus z Francją, nacjonalistyczne dążenia w państwach niemieckich. Skutki: powstanie II Rzeszy Niemieckiej, zmiana układu sił w Europie (niemiecka dominacja). Kluczowa postać: Otto von Bismarck."
+      }
+    ],
+    "xx_wiek": [
+      {
+        "data": "1914",
+        "wydarzenie": "Wybuch I wojny światowej",
+        "ciekawostka": "Przyczyny: zamach w Sarajewie na arcyksięcia Franciszka Ferdynanda, system wrogich sojuszy (Trójprzymierze vs Trójporozumienie), imperializm. Skutki: upadek wielkich mocarstw (Rosji, Austro-Węgier, Niemiec, Turcji), szansa na niepodległość dla wielu narodów. Kluczowa postać: Gawriło Princip."
+      },
+      {
+        "data": "1918",
+        "wydarzenie": "Odzyskanie niepodległości przez Polskę",
+        "ciekawostka": "Przyczyny: zakończenie I wojny światowej, klęska państw zaborczych, aktywne działania polskich dyplomatów i wojskowych. Skutki: powstanie II Rzeczypospolitej, konieczność walki o ostateczny kształt granic państwa. Kluczowa postać: Józef Piłsudski."
+      },
+      {
+        "data": "1920",
+        "wydarzenie": "Bitwa Warszawska (Cud nad Wisłą)",
+        "ciekawostka": "Przyczyny: marsz Armii Czerwonej na zachód, cel wywołania komunistycznej rewolucji w Niemczech. Skutki: ocalenie niepodległości Polski, powstrzymanie ekspansji bolszewizmu na Europę. Kluczowa postać: Józef Piłsudski / Michaił Tuchaczewski."
+      },
+      {
+        "data": "1939",
+        "wydarzenie": "Wybuch II wojny światowej",
+        "ciekawostka": "Przyczyny: agresywna, rewizjonistyczna polityka III Rzeszy, podpisanie paktu Ribbentrop-Mołotow. Skutki: najbardziej niszczycielski konflikt w historii ludzkości, Holokaust, późniejszy podział świata na blok wschodni i zachodni. Kluczowa postać: Adolf Hitler."
+      },
+      {
+        "data": "1944",
+        "wydarzenie": "Wybuch powstania warszawskiego",
+        "ciekawostka": "Przyczyny: zbliżający się front radziecki, chęć wyzwolenia stolicy własnymi siłami przez AK przed wkroczeniem sowietów. Skutki: zniszczenie miasta przez Niemców, ogromne straty wśród cywilów, upadek politycznych planów polskiego państwa podziemnego. Kluczowa postać: Tadeusz Bór-Komorowski."
+      },
+      {
+        "data": "1989",
+        "wydarzenie": "Obrady Okrągłego Stołu",
+        "ciekawostka": "Przyczyny: gigantyczny kryzys gospodarczy w PRL, strajki, brak legitymizacji władzy komunistycznej. Skutki: pierwsze częściowo wolne wybory (4 czerwca), transformacja ustrojowa, początek upadku bloku wschodniego (Jesień Ludów). Kluczowa postać: Lech Wałęsa."
+      }
+    ]
+  }
+}
