@@ -23,24 +23,26 @@ class Game:
         try:
             with open(sciezka_json, "r", encoding="utf-8") as file:
                 self.data = json.load(file)
-
-            self.wszystkie_wydarzenia = self.data["historia_daty"]["starozytnosc"]
+            
+            # TWORZYMY PUSTĄ LISTĘ NA WSZYSTKIE PYTANIA
+            self.wszystkie_wydarzenia = []
+            
+            # PĘTLA PRZECHODZI PRZEZ WSZYSTKIE EPOKI I DODAJE JE DO GŁÓWNEJ LISTY
+            for epoka in self.data["historia_daty"].values():
+                self.wszystkie_wydarzenia.extend(epoka)
+            
             self.dostepne_wydarzenia = list(self.wszystkie_wydarzenia)
             random.shuffle(self.dostepne_wydarzenia)
-
+            
         except FileNotFoundError:
-            console.print(
-                f"[bold red]Błąd:[/bold red] Nie znaleziono pliku {sciezka_json}"
-            )
+            console.print(f"[bold red]Błąd:[/bold red] Nie znaleziono pliku {sciezka_json}")
             input("Naciśnij Enter, aby zamknąć...")
             sys.exit(1)
         except KeyError:
-            console.print(
-                "[bold red]Błąd:[/bold red] Nieprawidłowa struktura pliku JSON"
-            )
+            console.print("[bold red]Błąd:[/bold red] Nieprawidłowa struktura pliku JSON")
             input("Naciśnij Enter, aby zamknąć...")
             sys.exit(1)
-
+            
     def losowe_wydarzenie(self):
         if not self.dostepne_wydarzenia:
             console.print(
